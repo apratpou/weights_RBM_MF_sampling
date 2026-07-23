@@ -1,0 +1,323 @@
+Loading datasets from files in ./Data/OCR-Letters/:  ocr_letters_train.txt-inputs.txt  took 3.8s
+Hyperparameters
+Num_Visible                128
+Num_Hidden                 500
+NeuronType                 0
+Persistent                 False
+Weighted                   False
+Logarithm Weights          False
+Polynomial Weights         0.0
+RatioRandPositiveExamples  0.0
+SumPrRandPositiveExamples  0.0
+RatioRandNegativeExamples  0.0
+KeepGoodExamples           True
+Iterations_CD              1
+Sigma                      0.100000
+Normalize_Gradient         0.000000
+Learning_Rate              0.010000
+Var_Learning_Rate          0
+Momentum                   0.800000
+Type_Momentum              1.000000
+Weight_Decay_L1            0.000000
+Weight_Decay_L2            0.000000
+Dropout_Pct                0.000000
+Max_Norm_L2                0.000000
+Minibatch_Size             100
+Num_Epochs                 500
+Len_Train                  32152
+Len_Test                   0
+Num_Labels                 0
+Weights_Load               None
+Weights_Save               weights_OCR-Letters.dat
+Save_Weights_Every         10
+Train	LogLKH_Data -10.378230  SumProb_Data 1.000
+
+Saving intermediate weights in intermediate_000_weights_OCR-Letters.dat...
+Epoch 0
+logZ    490.270988 (Estimated)
+Train   KL 117.179556  LogLKH -127.557786  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_010_weights_OCR-Letters.dat...
+Epoch    10
+logZ    378.513274 (Estimated)
+Train   KL 51.985200  LogLKH -62.363430  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_020_weights_OCR-Letters.dat...
+Epoch    20
+logZ    377.331863 (Estimated)
+Train   KL 50.096619  LogLKH -60.474848  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_030_weights_OCR-Letters.dat...
+Epoch    30
+logZ    377.876162 (Estimated)
+Train   KL 49.660786  LogLKH -60.039016  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_040_weights_OCR-Letters.dat...
+Epoch    40
+logZ    378.398769 (Estimated)
+Train   KL 49.155495  LogLKH -59.533725  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_050_weights_OCR-Letters.dat...
+Epoch    50
+logZ    376.678000 (Estimated)
+Train   KL 46.424429  LogLKH -56.802659  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_060_weights_OCR-Letters.dat...
+Epoch    60
+logZ    377.340933 (Estimated)
+Train   KL 46.120495  LogLKH -56.498725  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_070_weights_OCR-Letters.dat...
+Epoch    70
+logZ    377.278401 (Estimated)
+Train   KL 45.125003  LogLKH -55.503233  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_080_weights_OCR-Letters.dat...
+Epoch    80
+logZ    375.817545 (Estimated)
+Train   KL 42.813547  LogLKH -53.191777  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_090_weights_OCR-Letters.dat...
+Epoch    90
+logZ    377.727336 (Estimated)
+Train   KL 43.875401  LogLKH -54.253631  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_100_weights_OCR-Letters.dat...
+Epoch   100
+logZ    376.618139 (Estimated)
+Train   KL 41.938000  LogLKH -52.316230  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_110_weights_OCR-Letters.dat...
+Epoch   110
+logZ    376.697934 (Estimated)
+Train   KL 41.202141  LogLKH -51.580371  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_120_weights_OCR-Letters.dat...
+Epoch   120
+logZ    377.321025 (Estimated)
+Train   KL 41.010537  LogLKH -51.388767  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_130_weights_OCR-Letters.dat...
+Epoch   130
+logZ    378.380193 (Estimated)
+Train   KL 41.323343  LogLKH -51.701573  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_140_weights_OCR-Letters.dat...
+Epoch   140
+logZ    376.673526 (Estimated)
+Train   KL 38.815296  LogLKH -49.193526  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_150_weights_OCR-Letters.dat...
+Epoch   150
+logZ    378.157951 (Estimated)
+Train   KL 39.514710  LogLKH -49.892940  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_160_weights_OCR-Letters.dat...
+Epoch   160
+logZ    379.466197 (Estimated)
+Train   KL 40.077738  LogLKH -50.455968  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_170_weights_OCR-Letters.dat...
+Epoch   170
+logZ    379.805881 (Estimated)
+Train   KL 39.701226  LogLKH -50.079456  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_180_weights_OCR-Letters.dat...
+Epoch   180
+logZ    379.287771 (Estimated)
+Train   KL 38.422481  LogLKH -48.800711  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_190_weights_OCR-Letters.dat...
+Epoch   190
+logZ    379.534888 (Estimated)
+Train   KL 37.962204  LogLKH -48.340434  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_200_weights_OCR-Letters.dat...
+Epoch   200
+logZ    380.160553 (Estimated)
+Train   KL 37.849401  LogLKH -48.227631  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_210_weights_OCR-Letters.dat...
+Epoch   210
+logZ    379.463498 (Estimated)
+Train   KL 36.485279  LogLKH -46.863509  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_220_weights_OCR-Letters.dat...
+Epoch   220
+logZ    380.789104 (Estimated)
+Train   KL 37.115941  LogLKH -47.494171  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_230_weights_OCR-Letters.dat...
+Epoch   230
+logZ    382.318383 (Estimated)
+Train   KL 37.968813  LogLKH -48.347043  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_240_weights_OCR-Letters.dat...
+Epoch   240
+logZ    381.821975 (Estimated)
+Train   KL 36.804094  LogLKH -47.182324  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_250_weights_OCR-Letters.dat...
+Epoch   250
+logZ    384.863767 (Estimated)
+Train   KL 39.153002  LogLKH -49.531232  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_260_weights_OCR-Letters.dat...
+Epoch   260
+logZ    383.359104 (Estimated)
+Train   KL 37.016597  LogLKH -47.394827  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_270_weights_OCR-Letters.dat...
+Epoch   270
+logZ    383.206442 (Estimated)
+Train   KL 36.211494  LogLKH -46.589724  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_280_weights_OCR-Letters.dat...
+Epoch   280
+logZ    382.834229 (Estimated)
+Train   KL 35.199652  LogLKH -45.577882  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_290_weights_OCR-Letters.dat...
+Epoch   290
+logZ    383.172628 (Estimated)
+Train   KL 34.915599  LogLKH -45.293829  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_300_weights_OCR-Letters.dat...
+Epoch   300
+logZ    385.005924 (Estimated)
+Train   KL 36.121257  LogLKH -46.499487  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_310_weights_OCR-Letters.dat...
+Epoch   310
+logZ    384.984314 (Estimated)
+Train   KL 35.483572  LogLKH -45.861801  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_320_weights_OCR-Letters.dat...
+Epoch   320
+logZ    388.033270 (Estimated)
+Train   KL 37.893336  LogLKH -48.271566  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_330_weights_OCR-Letters.dat...
+Epoch   330
+logZ    386.394826 (Estimated)
+Train   KL 35.665781  LogLKH -46.044011  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_340_weights_OCR-Letters.dat...
+Epoch   340
+logZ    384.812402 (Estimated)
+Train   KL 33.444917  LogLKH -43.823147  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_350_weights_OCR-Letters.dat...
+Epoch   350
+logZ    385.895275 (Estimated)
+Train   KL 33.978086  LogLKH -44.356316  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_360_weights_OCR-Letters.dat...
+Epoch   360
+logZ    387.661525 (Estimated)
+Train   KL 35.126989  LogLKH -45.505219  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_370_weights_OCR-Letters.dat...
+Epoch   370
+logZ    388.404937 (Estimated)
+Train   KL 35.308218  LogLKH -45.686448  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_380_weights_OCR-Letters.dat...
+Epoch   380
+logZ    390.459133 (Estimated)
+Train   KL 36.757106  LogLKH -47.135335  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_390_weights_OCR-Letters.dat...
+Epoch   390
+logZ    386.698264 (Estimated)
+Train   KL 32.402100  LogLKH -42.780330  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_400_weights_OCR-Letters.dat...
+Epoch   400
+logZ    390.894447 (Estimated)
+Train   KL 36.039062  LogLKH -46.417292  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_410_weights_OCR-Letters.dat...
+Epoch   410
+logZ    389.133846 (Estimated)
+Train   KL 33.706240  LogLKH -44.084470  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_420_weights_OCR-Letters.dat...
+Epoch   420
+logZ    390.602829 (Estimated)
+Train   KL 34.608161  LogLKH -44.986391  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_430_weights_OCR-Letters.dat...
+Epoch   430
+logZ    390.186999 (Estimated)
+Train   KL 33.643412  LogLKH -44.021641  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_440_weights_OCR-Letters.dat...
+Epoch   440
+logZ    393.032073 (Estimated)
+Train   KL 35.918269  LogLKH -46.296499  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_450_weights_OCR-Letters.dat...
+Epoch   450
+logZ    392.568541 (Estimated)
+Train   KL 34.906190  LogLKH -45.284420  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_460_weights_OCR-Letters.dat...
+Epoch   460
+logZ    393.532106 (Estimated)
+Train   KL 35.323590  LogLKH -45.701820  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_470_weights_OCR-Letters.dat...
+Epoch   470
+logZ    392.204155 (Estimated)
+Train   KL 33.408039  LogLKH -43.786269  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_480_weights_OCR-Letters.dat...
+Epoch   480
+logZ    398.387895 (Estimated)
+Train   KL 39.043379  LogLKH -49.421609  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_490_weights_OCR-Letters.dat...
+Epoch   490
+logZ    394.457364 (Estimated)
+Train   KL 34.601311  LogLKH -44.979541  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_500_weights_OCR-Letters.dat...
+Epoch   500
+logZ    396.329167 (Estimated)
+Train   KL 35.943966  LogLKH -46.322196  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Final values
+Train	LogLKH_Data -10.378230  SumProb_Data 1.000
+logZ    396.329167 (Estimated)
+Train   KL 35.943966  LogLKH -46.322196  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000031
+Min_Prob_Data 0.000031
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000031
+Mean_Abs_Diff_Probs 0.000031
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000031
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.005577
+
+Saving final weights in final_weights_OCR-Letters.dat...
+Optimal values
+Obtained in epoch 390
+Train	LogLKH_Data -10.378230  SumProb_Data 1.000
+logZ    391.347402 (Estimated)
+Train   KL 37.051238  LogLKH -47.429468  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000031
+Min_Prob_Data 0.000031
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000031
+Mean_Abs_Diff_Probs 0.000031
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000031
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.005577
+
+Saving optimal weights in optimal_weights_OCR-Letters.dat...
+Total elapsed time: 903.873433s
