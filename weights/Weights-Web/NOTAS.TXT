@@ -1,0 +1,11 @@
+
+Run1-CD
+
+  CD1
+  500 hiddens
+
+Run1-PCD
+
+  PCD1
+  500 hiddens
+

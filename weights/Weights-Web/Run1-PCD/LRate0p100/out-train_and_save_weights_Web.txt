@@ -1,0 +1,323 @@
+Loading datasets from files in ./Data/Web/:  w6a_data.txt  took 25.7s
+Hyperparameters
+Num_Visible                300
+Num_Hidden                 500
+NeuronType                 0
+Persistent                 True
+Weighted                   False
+Logarithm Weights          False
+Polynomial Weights         0.0
+RatioRandPositiveExamples  0.0
+SumPrRandPositiveExamples  0.0
+RatioRandNegativeExamples  0.0
+KeepGoodExamples           True
+Iterations_CD              1
+Sigma                      0.100000
+Normalize_Gradient         0.000000
+Learning_Rate              0.100000
+Var_Learning_Rate          0
+Momentum                   0.800000
+Type_Momentum              1.000000
+Weight_Decay_L1            0.000000
+Weight_Decay_L2            0.000000
+Dropout_Pct                0.000000
+Max_Norm_L2                0.000000
+Minibatch_Size             100
+Num_Epochs                 500
+Len_Train                  49749
+Len_Test                   0
+Num_Labels                 0
+Weights_Load               None
+Weights_Save               weights_Web.dat
+Save_Weights_Every         10
+Train	LogLKH_Data -10.814746  SumProb_Data 1.000
+
+Saving intermediate weights in intermediate_000_weights_Web.dat...
+Epoch 0
+logZ    677.166218 (Estimated)
+Train   KL 312.572977  LogLKH -323.387723  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_010_weights_Web.dat...
+Epoch    10
+logZ    357.706694 (Estimated)
+Train   KL 15.573798  LogLKH -26.388543  SumProb 18423.476  Accuracy -1.000  Entropy -24752.223
+
+Saving intermediate weights in intermediate_020_weights_Web.dat...
+Epoch    20
+logZ    356.328833 (Estimated)
+Train   KL 11.132674  LogLKH -21.947419  SumProb 468621.990  Accuracy -1.000  Entropy -2144998.231
+
+Saving intermediate weights in intermediate_030_weights_Web.dat...
+Epoch    30
+logZ    365.934491 (Estimated)
+Train   KL 19.062823  LogLKH -29.877568  SumProb 142.071  Accuracy -1.000  Entropy 499.345
+
+Saving intermediate weights in intermediate_040_weights_Web.dat...
+Epoch    40
+logZ    355.249227 (Estimated)
+Train   KL 7.267557  LogLKH -18.082303  SumProb 21495246.206  Accuracy -1.000  Entropy -180997250.263
+
+Saving intermediate weights in intermediate_050_weights_Web.dat...
+Epoch    50
+logZ    362.890481 (Estimated)
+Train   KL 13.516350  LogLKH -24.331096  SumProb 35160.975  Accuracy -1.000  Entropy -70547.693
+
+Saving intermediate weights in intermediate_060_weights_Web.dat...
+Epoch    60
+logZ    362.513619 (Estimated)
+Train   KL 11.319584  LogLKH -22.134329  SumProb 176741.349  Accuracy -1.000  Entropy -638808.886
+
+Saving intermediate weights in intermediate_070_weights_Web.dat...
+Epoch    70
+logZ    366.307236 (Estimated)
+Train   KL 13.944569  LogLKH -24.759314  SumProb 16326.512  Accuracy -1.000  Entropy -20186.139
+
+Saving intermediate weights in intermediate_080_weights_Web.dat...
+Epoch    80
+logZ    358.203926 (Estimated)
+Train   KL 4.034556  LogLKH -14.849301  SumProb 199578941.994  Accuracy -1.000  Entropy -2124621076.728
+
+Saving intermediate weights in intermediate_090_weights_Web.dat...
+Epoch    90
+logZ    369.139723 (Estimated)
+Train   KL 13.207144  LogLKH -24.021890  SumProb 14962.973  Accuracy -1.000  Entropy -17086.334
+
+Saving intermediate weights in intermediate_100_weights_Web.dat...
+Epoch   100
+logZ    364.315173 (Estimated)
+Train   KL 6.966026  LogLKH -17.780771  SumProb 8413085.677  Accuracy -1.000  Entropy -62891536.076
+
+Saving intermediate weights in intermediate_110_weights_Web.dat...
+Epoch   110
+logZ    377.377797 (Estimated)
+Train   KL 18.098436  LogLKH -28.913182  SumProb 76.739  Accuracy -1.000  Entropy 317.388
+
+Saving intermediate weights in intermediate_120_weights_Web.dat...
+Epoch   120
+logZ    364.969345 (Estimated)
+Train   KL 3.991666  LogLKH -14.806411  SumProb 89494897.765  Accuracy -1.000  Entropy -880007335.084
+
+Saving intermediate weights in intermediate_130_weights_Web.dat...
+Epoch   130
+logZ    375.482166 (Estimated)
+Train   KL 12.865231  LogLKH -23.679977  SumProb 11878.071  Accuracy -1.000  Entropy -10761.248
+
+Saving intermediate weights in intermediate_140_weights_Web.dat...
+Epoch   140
+logZ    376.006301 (Estimated)
+Train   KL 11.466219  LogLKH -22.280965  SumProb 34821.351  Accuracy -1.000  Entropy -68877.448
+
+Saving intermediate weights in intermediate_150_weights_Web.dat...
+Epoch   150
+logZ    370.199626 (Estimated)
+Train   KL 4.085100  LogLKH -14.899846  SumProb 59184060.485  Accuracy -1.000  Entropy -557459771.466
+
+Saving intermediate weights in intermediate_160_weights_Web.dat...
+Epoch   160
+logZ    378.931340 (Estimated)
+Train   KL 10.810550  LogLKH -21.625296  SumProb 51240.461  Accuracy -1.000  Entropy -121046.684
+
+Saving intermediate weights in intermediate_170_weights_Web.dat...
+Epoch   170
+logZ    377.755209 (Estimated)
+Train   KL 8.325975  LogLKH -19.140720  SumProb 987646.101  Accuracy -1.000  Entropy -5262932.559
+
+Saving intermediate weights in intermediate_180_weights_Web.dat...
+Epoch   180
+logZ    380.943917 (Estimated)
+Train   KL 9.565928  LogLKH -20.380674  SumProb 219611.033  Accuracy -1.000  Entropy -838946.916
+
+Saving intermediate weights in intermediate_190_weights_Web.dat...
+Epoch   190
+logZ    383.200286 (Estimated)
+Train   KL 9.659897  LogLKH -20.474643  SumProb 120774.234  Accuracy -1.000  Entropy -388498.402
+
+Saving intermediate weights in intermediate_200_weights_Web.dat...
+Epoch   200
+logZ    376.567300 (Estimated)
+Train   KL 1.363848  LogLKH -12.178593  SumProb 513720453.938  Accuracy -1.000  Entropy -5945533479.952
+
+Saving intermediate weights in intermediate_210_weights_Web.dat...
+Epoch   210
+logZ    381.352479 (Estimated)
+Train   KL 4.009997  LogLKH -14.824742  SumProb 22388222.437  Accuracy -1.000  Entropy -188920686.947
+
+Saving intermediate weights in intermediate_220_weights_Web.dat...
+Epoch   220
+logZ    388.306282 (Estimated)
+Train   KL 9.193843  LogLKH -20.008589  SumProb 121294.665  Accuracy -1.000  Entropy -389792.392
+
+Saving intermediate weights in intermediate_230_weights_Web.dat...
+Epoch   230
+logZ    381.583230 (Estimated)
+Train   KL 0.830587  LogLKH -11.645332  SumProb 567620659.954  Accuracy -1.000  Entropy -6624830425.952
+
+Saving intermediate weights in intermediate_240_weights_Web.dat...
+Epoch   240
+logZ    394.248304 (Estimated)
+Train   KL 11.651227  LogLKH -22.465973  SumProb 9538.333  Accuracy -1.000  Entropy -6382.716
+
+Saving intermediate weights in intermediate_250_weights_Web.dat...
+Epoch   250
+logZ    400.549446 (Estimated)
+Train   KL 16.105304  LogLKH -26.920050  SumProb 92.606  Accuracy -1.000  Entropy 367.094
+
+Saving intermediate weights in intermediate_260_weights_Web.dat...
+Epoch   260
+logZ    385.592506 (Estimated)
+Train   KL -0.489674  LogLKH -10.325072  SumProb 1599019956.824  Accuracy -1.000  Entropy -20318070122.615
+
+Saving intermediate weights in intermediate_270_weights_Web.dat...
+Epoch   270
+logZ    391.848778 (Estimated)
+Train   KL 4.340174  LogLKH -15.154919  SumProb 16957810.320  Accuracy -1.000  Entropy -138493006.162
+
+Saving intermediate weights in intermediate_280_weights_Web.dat...
+Epoch   280
+logZ    386.559032 (Estimated)
+Train   KL -2.638538  LogLKH -8.176208  SumProb 17086985806.869  Accuracy -1.000  Entropy -257588461748.213
+
+Saving intermediate weights in intermediate_290_weights_Web.dat...
+Epoch   290
+logZ    400.474804 (Estimated)
+Train   KL 8.831053  LogLKH -19.645799  SumProb 104019.234  Accuracy -1.000  Entropy -318488.455
+
+Saving intermediate weights in intermediate_300_weights_Web.dat...
+Epoch   300
+logZ    400.823603 (Estimated)
+Train   KL 7.941027  LogLKH -18.755772  SumProb 326466.185  Accuracy -1.000  Entropy -1377222.486
+
+Saving intermediate weights in intermediate_310_weights_Web.dat...
+Epoch   310
+logZ    403.504003 (Estimated)
+Train   KL 8.607451  LogLKH -19.422196  SumProb 102636.002  Accuracy -1.000  Entropy -312189.146
+
+Saving intermediate weights in intermediate_320_weights_Web.dat...
+Epoch   320
+logZ    401.934792 (Estimated)
+Train   KL 5.823352  LogLKH -16.638098  SumProb 2466188.344  Accuracy -1.000  Entropy -15375263.222
+
+Saving intermediate weights in intermediate_330_weights_Web.dat...
+Epoch   330
+logZ    399.760373 (Estimated)
+Train   KL 1.777795  LogLKH -12.592541  SumProb 119203133.170  Accuracy -1.000  Entropy -1205056636.162
+
+Saving intermediate weights in intermediate_340_weights_Web.dat...
+Epoch   340
+logZ    415.530103 (Estimated)
+Train   KL 15.653621  LogLKH -26.468367  SumProb 92.950  Accuracy -1.000  Entropy 368.027
+
+Saving intermediate weights in intermediate_350_weights_Web.dat...
+Epoch   350
+logZ    406.201763 (Estimated)
+Train   KL 4.978356  LogLKH -15.793101  SumProb 4369321.467  Accuracy -1.000  Entropy -29739673.150
+
+Saving intermediate weights in intermediate_360_weights_Web.dat...
+Epoch   360
+logZ    408.035026 (Estimated)
+Train   KL 5.411778  LogLKH -16.226524  SumProb 2940634.747  Accuracy -1.000  Entropy -18845724.278
+
+Saving intermediate weights in intermediate_370_weights_Web.dat...
+Epoch   370
+logZ    410.147889 (Estimated)
+Train   KL 5.697240  LogLKH -16.511986  SumProb 1969836.008  Accuracy -1.000  Entropy -11841280.697
+
+Saving intermediate weights in intermediate_380_weights_Web.dat...
+Epoch   380
+logZ    408.815487 (Estimated)
+Train   KL 2.665451  LogLKH -13.480197  SumProb 36117389.047  Accuracy -1.000  Entropy -321956892.612
+
+Saving intermediate weights in intermediate_390_weights_Web.dat...
+Epoch   390
+logZ    412.975219 (Estimated)
+Train   KL 5.631840  LogLKH -16.446586  SumProb 2141554.780  Accuracy -1.000  Entropy -13055661.501
+
+Saving intermediate weights in intermediate_400_weights_Web.dat...
+Epoch   400
+logZ    414.555401 (Estimated)
+Train   KL 5.892610  LogLKH -16.707355  SumProb 1740358.893  Accuracy -1.000  Entropy -10240000.953
+
+Saving intermediate weights in intermediate_410_weights_Web.dat...
+Epoch   410
+logZ    424.874142 (Estimated)
+Train   KL 14.664378  LogLKH -25.479123  SumProb 20365.567  Accuracy -1.000  Entropy -144066.909
+
+Saving intermediate weights in intermediate_420_weights_Web.dat...
+Epoch   420
+logZ    417.190693 (Estimated)
+Train   KL 4.723986  LogLKH -15.538731  SumProb 3540599.218  Accuracy -1.000  Entropy -23343171.276
+
+Saving intermediate weights in intermediate_430_weights_Web.dat...
+Epoch   430
+logZ    419.932628 (Estimated)
+Train   KL 6.574322  LogLKH -17.389068  SumProb 793174.872  Accuracy -1.000  Entropy -4051167.100
+
+Saving intermediate weights in intermediate_440_weights_Web.dat...
+Epoch   440
+logZ    423.402984 (Estimated)
+Train   KL 8.440975  LogLKH -19.255721  SumProb 75580.862  Accuracy -1.000  Entropy -207214.176
+
+Saving intermediate weights in intermediate_450_weights_Web.dat...
+Epoch   450
+logZ    421.040637 (Estimated)
+Train   KL 5.256161  LogLKH -16.070907  SumProb 3638874.495  Accuracy -1.000  Entropy -25460952.512
+
+Saving intermediate weights in intermediate_460_weights_Web.dat...
+Epoch   460
+logZ    428.458666 (Estimated)
+Train   KL 10.927425  LogLKH -21.742170  SumProb 7702.693  Accuracy -1.000  Entropy -3603.294
+
+Saving intermediate weights in intermediate_470_weights_Web.dat...
+Epoch   470
+logZ    425.463041 (Estimated)
+Train   KL 6.139894  LogLKH -16.954640  SumProb 844967.216  Accuracy -1.000  Entropy -4363549.869
+
+Saving intermediate weights in intermediate_480_weights_Web.dat...
+Epoch   480
+logZ    419.533693 (Estimated)
+Train   KL -1.517067  LogLKH -9.297679  SumProb 870993582.710  Accuracy -1.000  Entropy -10531477794.279
+
+Saving intermediate weights in intermediate_490_weights_Web.dat...
+Epoch   490
+logZ    424.187110 (Estimated)
+Train   KL 2.750633  LogLKH -13.565378  SumProb 30153319.869  Accuracy -1.000  Entropy -263612492.764
+
+Saving intermediate weights in intermediate_500_weights_Web.dat...
+Epoch   500
+logZ    423.251243 (Estimated)
+Train   KL 0.588256  LogLKH -11.403002  SumProb 10032159376.928  Accuracy -1.000  Entropy -200673851010.273
+
+Final values
+Train	LogLKH_Data -10.814746  SumProb_Data 1.000
+logZ    423.251243 (Estimated)
+Train   KL 0.588256  LogLKH -11.403002  SumProb 10032159376.928  Accuracy -1.000  Entropy -200673851010.273
+Max_Prob_Data 0.000020
+Min_Prob_Data 0.000020
+Max_Prob_Model 831309924.466158
+Min_Prob_Model 0.000000
+Mean_Diff_Probs -201655.498119
+Mean_Abs_Diff_Probs 201655.498136
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 831309924.466138
+L1_Norm_Diff_Probs 10032159376.752888
+L2_Norm_Diff_Probs 2644071820.149920
+
+Saving final weights in final_weights_Web.dat...
+Optimal values
+Obtained in epoch 280
+Train	LogLKH_Data -10.814746  SumProb_Data 1.000
+logZ    395.834642 (Estimated)
+Train   KL 6.637072  LogLKH -17.451817  SumProb 1600735.334  Accuracy -1.000  Entropy -9283491.123
+Max_Prob_Data 0.000020
+Min_Prob_Data 0.000020
+Max_Prob_Model 366.227131
+Min_Prob_Model 0.000000
+Mean_Diff_Probs -32.176211
+Mean_Abs_Diff_Probs 32.176234
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 366.227111
+L1_Norm_Diff_Probs 1600735.466799
+L2_Norm_Diff_Probs 23784.223880
+
+Saving optimal weights in optimal_weights_Web.dat...
+Total elapsed time: 10745.140422s
