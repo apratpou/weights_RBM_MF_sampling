@@ -1,0 +1,323 @@
+Loading datasets from MNIST...           took 2.0s
+Hyperparameters
+Num_Visible                784
+Num_Hidden                 500
+NeuronType                 0
+Persistent                 True
+Weighted                   False
+Logarithm Weights          False
+Polynomial Weights         0.0
+RatioRandPositiveExamples  0.0
+SumPrRandPositiveExamples  0.0
+RatioRandNegativeExamples  0.0
+KeepGoodExamples           True
+Iterations_CD              1
+Sigma                      0.100000
+Normalize_Gradient         0.000000
+Learning_Rate              0.001000
+Var_Learning_Rate          0
+Momentum                   0.800000
+Type_Momentum              1.000000
+Weight_Decay_L1            0.000000
+Weight_Decay_L2            0.000000
+Dropout_Pct                0.000000
+Max_Norm_L2                0.000000
+Minibatch_Size             100
+Num_Epochs                 500
+Len_Train                  60000
+Len_Test                   0
+Num_Labels                 0
+Weights_Load               None
+Weights_Save               weights_MNIST.dat
+Save_Weights_Every         10
+Train	LogLKH_Data -11.002100  SumProb_Data 1.000
+
+Saving intermediate weights in intermediate_000_weights_MNIST.dat...
+Epoch 0
+logZ    1258.090724 (Estimated)
+Train   KL inf  LogLKH -inf  SumProb 0.000  Accuracy -1.000  Entropy nan
+
+Saving intermediate weights in intermediate_010_weights_MNIST.dat...
+Epoch    10
+logZ    727.310492 (Estimated)
+Train   KL 352.930771  LogLKH -363.932871  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_020_weights_MNIST.dat...
+Epoch    20
+logZ    674.979544 (Estimated)
+Train   KL 286.241538  LogLKH -297.243638  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_030_weights_MNIST.dat...
+Epoch    30
+logZ    645.462621 (Estimated)
+Train   KL 252.125739  LogLKH -263.127839  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_040_weights_MNIST.dat...
+Epoch    40
+logZ    628.556382 (Estimated)
+Train   KL 235.513867  LogLKH -246.515966  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_050_weights_MNIST.dat...
+Epoch    50
+logZ    619.034498 (Estimated)
+Train   KL 225.448262  LogLKH -236.450362  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_060_weights_MNIST.dat...
+Epoch    60
+logZ    614.294656 (Estimated)
+Train   KL 220.072880  LogLKH -231.074980  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_070_weights_MNIST.dat...
+Epoch    70
+logZ    612.234271 (Estimated)
+Train   KL 216.506423  LogLKH -227.508523  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_080_weights_MNIST.dat...
+Epoch    80
+logZ    610.736776 (Estimated)
+Train   KL 212.956068  LogLKH -223.958168  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_090_weights_MNIST.dat...
+Epoch    90
+logZ    610.869509 (Estimated)
+Train   KL 210.699362  LogLKH -221.701462  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_100_weights_MNIST.dat...
+Epoch   100
+logZ    610.016882 (Estimated)
+Train   KL 207.215004  LogLKH -218.217104  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_110_weights_MNIST.dat...
+Epoch   110
+logZ    610.001481 (Estimated)
+Train   KL 204.395073  LogLKH -215.397173  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_120_weights_MNIST.dat...
+Epoch   120
+logZ    608.153571 (Estimated)
+Train   KL 199.613668  LogLKH -210.615767  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_130_weights_MNIST.dat...
+Epoch   130
+logZ    609.915420 (Estimated)
+Train   KL 198.334705  LogLKH -209.336805  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_140_weights_MNIST.dat...
+Epoch   140
+logZ    612.585409 (Estimated)
+Train   KL 197.882477  LogLKH -208.884577  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_150_weights_MNIST.dat...
+Epoch   150
+logZ    611.226799 (Estimated)
+Train   KL 194.020445  LogLKH -205.022545  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_160_weights_MNIST.dat...
+Epoch   160
+logZ    613.771695 (Estimated)
+Train   KL 193.738410  LogLKH -204.740510  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_170_weights_MNIST.dat...
+Epoch   170
+logZ    613.329977 (Estimated)
+Train   KL 190.145571  LogLKH -201.147671  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_180_weights_MNIST.dat...
+Epoch   180
+logZ    616.317461 (Estimated)
+Train   KL 189.889375  LogLKH -200.891475  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_190_weights_MNIST.dat...
+Epoch   190
+logZ    613.806889 (Estimated)
+Train   KL 185.139474  LogLKH -196.141574  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_200_weights_MNIST.dat...
+Epoch   200
+logZ    612.386472 (Estimated)
+Train   KL 182.252688  LogLKH -193.254788  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_210_weights_MNIST.dat...
+Epoch   210
+logZ    612.833571 (Estimated)
+Train   KL 181.382802  LogLKH -192.384902  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_220_weights_MNIST.dat...
+Epoch   220
+logZ    607.965171 (Estimated)
+Train   KL 175.887351  LogLKH -186.889451  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_230_weights_MNIST.dat...
+Epoch   230
+logZ    608.682314 (Estimated)
+Train   KL 174.804857  LogLKH -185.806957  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_240_weights_MNIST.dat...
+Epoch   240
+logZ    610.815718 (Estimated)
+Train   KL 175.245961  LogLKH -186.248061  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_250_weights_MNIST.dat...
+Epoch   250
+logZ    610.982276 (Estimated)
+Train   KL 174.504022  LogLKH -185.506122  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_260_weights_MNIST.dat...
+Epoch   260
+logZ    605.796436 (Estimated)
+Train   KL 169.266993  LogLKH -180.269093  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_270_weights_MNIST.dat...
+Epoch   270
+logZ    607.480931 (Estimated)
+Train   KL 169.440830  LogLKH -180.442930  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_280_weights_MNIST.dat...
+Epoch   280
+logZ    607.664547 (Estimated)
+Train   KL 167.467918  LogLKH -178.470018  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_290_weights_MNIST.dat...
+Epoch   290
+logZ    608.877917 (Estimated)
+Train   KL 166.299132  LogLKH -177.301232  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_300_weights_MNIST.dat...
+Epoch   300
+logZ    610.547116 (Estimated)
+Train   KL 165.515107  LogLKH -176.517207  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_310_weights_MNIST.dat...
+Epoch   310
+logZ    610.763153 (Estimated)
+Train   KL 165.436378  LogLKH -176.438478  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_320_weights_MNIST.dat...
+Epoch   320
+logZ    607.447161 (Estimated)
+Train   KL 163.449550  LogLKH -174.451650  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_330_weights_MNIST.dat...
+Epoch   330
+logZ    604.439137 (Estimated)
+Train   KL 160.898191  LogLKH -171.900291  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_340_weights_MNIST.dat...
+Epoch   340
+logZ    599.606852 (Estimated)
+Train   KL 156.323083  LogLKH -167.325183  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_350_weights_MNIST.dat...
+Epoch   350
+logZ    601.309993 (Estimated)
+Train   KL 157.415963  LogLKH -168.418063  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_360_weights_MNIST.dat...
+Epoch   360
+logZ    601.418485 (Estimated)
+Train   KL 156.939968  LogLKH -167.942068  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_370_weights_MNIST.dat...
+Epoch   370
+logZ    599.783044 (Estimated)
+Train   KL 154.611932  LogLKH -165.614031  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_380_weights_MNIST.dat...
+Epoch   380
+logZ    598.987880 (Estimated)
+Train   KL 153.625034  LogLKH -164.627133  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_390_weights_MNIST.dat...
+Epoch   390
+logZ    597.499249 (Estimated)
+Train   KL 152.501652  LogLKH -163.503752  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_400_weights_MNIST.dat...
+Epoch   400
+logZ    596.852644 (Estimated)
+Train   KL 152.734883  LogLKH -163.736982  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_410_weights_MNIST.dat...
+Epoch   410
+logZ    592.705347 (Estimated)
+Train   KL 148.197106  LogLKH -159.199206  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_420_weights_MNIST.dat...
+Epoch   420
+logZ    594.208577 (Estimated)
+Train   KL 148.643801  LogLKH -159.645901  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_430_weights_MNIST.dat...
+Epoch   430
+logZ    593.477280 (Estimated)
+Train   KL 146.599675  LogLKH -157.601774  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_440_weights_MNIST.dat...
+Epoch   440
+logZ    595.670097 (Estimated)
+Train   KL 147.324539  LogLKH -158.326639  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_450_weights_MNIST.dat...
+Epoch   450
+logZ    595.581180 (Estimated)
+Train   KL 146.284143  LogLKH -157.286242  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_460_weights_MNIST.dat...
+Epoch   460
+logZ    594.149695 (Estimated)
+Train   KL 145.165810  LogLKH -156.167910  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_470_weights_MNIST.dat...
+Epoch   470
+logZ    593.900673 (Estimated)
+Train   KL 145.495975  LogLKH -156.498075  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_480_weights_MNIST.dat...
+Epoch   480
+logZ    594.964060 (Estimated)
+Train   KL 146.859105  LogLKH -157.861205  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_490_weights_MNIST.dat...
+Epoch   490
+logZ    593.874289 (Estimated)
+Train   KL 145.362396  LogLKH -156.364496  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_500_weights_MNIST.dat...
+Epoch   500
+logZ    591.928307 (Estimated)
+Train   KL 144.140240  LogLKH -155.142340  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Final values
+Train	LogLKH_Data -11.002100  SumProb_Data 1.000
+logZ    591.928307 (Estimated)
+Train   KL 144.140240  LogLKH -155.142340  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000017
+Min_Prob_Data 0.000017
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000017
+Mean_Abs_Diff_Probs 0.000017
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000017
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.004082
+
+Saving final weights in final_weights_MNIST.dat...
+Optimal values
+Obtained in epoch 500
+Train	LogLKH_Data -11.002100  SumProb_Data 1.000
+logZ    587.723113 (Estimated)
+Train   KL 139.935047  LogLKH -150.937147  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000017
+Min_Prob_Data 0.000017
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000017
+Mean_Abs_Diff_Probs 0.000017
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000017
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.004082
+
+Saving optimal weights in optimal_weights_MNIST.dat...
+Total elapsed time: 27674.038551s
