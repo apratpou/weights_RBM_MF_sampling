@@ -1,0 +1,323 @@
+Loading datasets from files in ./Data/DNA/:  dna_scale-data.txt  took 3.5s
+Hyperparameters
+Num_Visible                180
+Num_Hidden                 500
+NeuronType                 0
+Persistent                 True
+Weighted                   False
+Logarithm Weights          False
+Polynomial Weights         0.0
+RatioRandPositiveExamples  0.0
+SumPrRandPositiveExamples  0.0
+RatioRandNegativeExamples  0.0
+KeepGoodExamples           True
+Iterations_CD              1
+Sigma                      0.100000
+Normalize_Gradient         0.000000
+Learning_Rate              0.010000
+Var_Learning_Rate          0
+Momentum                   0.800000
+Type_Momentum              1.000000
+Weight_Decay_L1            0.000000
+Weight_Decay_L2            0.000000
+Dropout_Pct                0.000000
+Max_Norm_L2                0.000000
+Minibatch_Size             100
+Num_Epochs                 500
+Len_Train                  3186
+Len_Test                   0
+Num_Labels                 0
+Weights_Load               None
+Weights_Save               weights_DNA.dat
+Save_Weights_Every         10
+Train	LogLKH_Data -8.066521  SumProb_Data 1.000
+
+Saving intermediate weights in intermediate_000_weights_DNA.dat...
+Epoch 0
+logZ    531.580821 (Estimated)
+Train   KL 156.248960  LogLKH -164.315482  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_010_weights_DNA.dat...
+Epoch    10
+logZ    403.703803 (Estimated)
+Train   KL 92.517204  LogLKH -100.583725  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_020_weights_DNA.dat...
+Epoch    20
+logZ    403.981613 (Estimated)
+Train   KL 91.155259  LogLKH -99.221780  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_030_weights_DNA.dat...
+Epoch    30
+logZ    406.200122 (Estimated)
+Train   KL 91.733614  LogLKH -99.800136  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_040_weights_DNA.dat...
+Epoch    40
+logZ    406.472652 (Estimated)
+Train   KL 90.371608  LogLKH -98.438129  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_050_weights_DNA.dat...
+Epoch    50
+logZ    409.653974 (Estimated)
+Train   KL 91.990307  LogLKH -100.056829  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_060_weights_DNA.dat...
+Epoch    60
+logZ    409.526083 (Estimated)
+Train   KL 90.182270  LogLKH -98.248791  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_070_weights_DNA.dat...
+Epoch    70
+logZ    412.032855 (Estimated)
+Train   KL 91.055373  LogLKH -99.121894  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_080_weights_DNA.dat...
+Epoch    80
+logZ    412.674697 (Estimated)
+Train   KL 90.131704  LogLKH -98.198226  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_090_weights_DNA.dat...
+Epoch    90
+logZ    412.587351 (Estimated)
+Train   KL 88.460486  LogLKH -96.527007  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_100_weights_DNA.dat...
+Epoch   100
+logZ    413.089446 (Estimated)
+Train   KL 87.452779  LogLKH -95.519300  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_110_weights_DNA.dat...
+Epoch   110
+logZ    414.767793 (Estimated)
+Train   KL 87.654124  LogLKH -95.720646  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_120_weights_DNA.dat...
+Epoch   120
+logZ    415.847536 (Estimated)
+Train   KL 87.248747  LogLKH -95.315269  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_130_weights_DNA.dat...
+Epoch   130
+logZ    415.575357 (Estimated)
+Train   KL 85.540525  LogLKH -93.607047  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_140_weights_DNA.dat...
+Epoch   140
+logZ    417.305787 (Estimated)
+Train   KL 85.938497  LogLKH -94.005018  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_150_weights_DNA.dat...
+Epoch   150
+logZ    418.129137 (Estimated)
+Train   KL 85.452873  LogLKH -93.519394  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_160_weights_DNA.dat...
+Epoch   160
+logZ    419.417513 (Estimated)
+Train   KL 85.294245  LogLKH -93.360767  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_170_weights_DNA.dat...
+Epoch   170
+logZ    422.512196 (Estimated)
+Train   KL 87.097481  LogLKH -95.164002  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_180_weights_DNA.dat...
+Epoch   180
+logZ    420.272494 (Estimated)
+Train   KL 83.456211  LogLKH -91.522733  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_190_weights_DNA.dat...
+Epoch   190
+logZ    423.025058 (Estimated)
+Train   KL 84.663897  LogLKH -92.730419  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_200_weights_DNA.dat...
+Epoch   200
+logZ    426.748226 (Estimated)
+Train   KL 87.137435  LogLKH -95.203956  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_210_weights_DNA.dat...
+Epoch   210
+logZ    425.668663 (Estimated)
+Train   KL 84.685229  LogLKH -92.751750  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_220_weights_DNA.dat...
+Epoch   220
+logZ    425.529065 (Estimated)
+Train   KL 83.124105  LogLKH -91.190627  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_230_weights_DNA.dat...
+Epoch   230
+logZ    427.854603 (Estimated)
+Train   KL 84.048456  LogLKH -92.114977  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_240_weights_DNA.dat...
+Epoch   240
+logZ    427.752583 (Estimated)
+Train   KL 82.464094  LogLKH -90.530616  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_250_weights_DNA.dat...
+Epoch   250
+logZ    428.416760 (Estimated)
+Train   KL 81.731102  LogLKH -89.797624  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_260_weights_DNA.dat...
+Epoch   260
+logZ    430.113436 (Estimated)
+Train   KL 82.159832  LogLKH -90.226353  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_270_weights_DNA.dat...
+Epoch   270
+logZ    430.009990 (Estimated)
+Train   KL 80.676198  LogLKH -88.742720  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_280_weights_DNA.dat...
+Epoch   280
+logZ    432.989331 (Estimated)
+Train   KL 82.237592  LogLKH -90.304114  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_290_weights_DNA.dat...
+Epoch   290
+logZ    433.156273 (Estimated)
+Train   KL 81.033595  LogLKH -89.100117  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_300_weights_DNA.dat...
+Epoch   300
+logZ    435.799949 (Estimated)
+Train   KL 82.311467  LogLKH -90.377988  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_310_weights_DNA.dat...
+Epoch   310
+logZ    436.506683 (Estimated)
+Train   KL 81.601917  LogLKH -89.668439  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_320_weights_DNA.dat...
+Epoch   320
+logZ    435.967767 (Estimated)
+Train   KL 79.769139  LogLKH -87.835660  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_330_weights_DNA.dat...
+Epoch   330
+logZ    438.312602 (Estimated)
+Train   KL 80.698338  LogLKH -88.764859  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_340_weights_DNA.dat...
+Epoch   340
+logZ    439.384281 (Estimated)
+Train   KL 80.434723  LogLKH -88.501245  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_350_weights_DNA.dat...
+Epoch   350
+logZ    439.167101 (Estimated)
+Train   KL 78.834797  LogLKH -86.901318  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_360_weights_DNA.dat...
+Epoch   360
+logZ    440.910036 (Estimated)
+Train   KL 79.259459  LogLKH -87.325980  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_370_weights_DNA.dat...
+Epoch   370
+logZ    441.578861 (Estimated)
+Train   KL 78.626588  LogLKH -86.693109  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_380_weights_DNA.dat...
+Epoch   380
+logZ    442.648557 (Estimated)
+Train   KL 78.332400  LogLKH -86.398921  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_390_weights_DNA.dat...
+Epoch   390
+logZ    444.737836 (Estimated)
+Train   KL 79.039033  LogLKH -87.105554  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_400_weights_DNA.dat...
+Epoch   400
+logZ    444.723065 (Estimated)
+Train   KL 77.760794  LogLKH -85.827316  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_410_weights_DNA.dat...
+Epoch   410
+logZ    446.498064 (Estimated)
+Train   KL 78.131184  LogLKH -86.197706  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_420_weights_DNA.dat...
+Epoch   420
+logZ    448.898613 (Estimated)
+Train   KL 79.321935  LogLKH -87.388457  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_430_weights_DNA.dat...
+Epoch   430
+logZ    447.935656 (Estimated)
+Train   KL 76.931973  LogLKH -84.998494  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_440_weights_DNA.dat...
+Epoch   440
+logZ    449.107742 (Estimated)
+Train   KL 76.939542  LogLKH -85.006064  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_450_weights_DNA.dat...
+Epoch   450
+logZ    451.473655 (Estimated)
+Train   KL 77.962244  LogLKH -86.028766  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_460_weights_DNA.dat...
+Epoch   460
+logZ    451.752410 (Estimated)
+Train   KL 76.828417  LogLKH -84.894938  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_470_weights_DNA.dat...
+Epoch   470
+logZ    455.020549 (Estimated)
+Train   KL 79.004935  LogLKH -87.071456  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_480_weights_DNA.dat...
+Epoch   480
+logZ    456.952161 (Estimated)
+Train   KL 79.593590  LogLKH -87.660111  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_490_weights_DNA.dat...
+Epoch   490
+logZ    457.618671 (Estimated)
+Train   KL 79.017678  LogLKH -87.084200  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Saving intermediate weights in intermediate_500_weights_DNA.dat...
+Epoch   500
+logZ    456.019430 (Estimated)
+Train   KL 76.209102  LogLKH -84.275624  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+
+Final values
+Train	LogLKH_Data -8.066521  SumProb_Data 1.000
+logZ    456.019430 (Estimated)
+Train   KL 76.209102  LogLKH -84.275624  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000314
+Min_Prob_Data 0.000314
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000314
+Mean_Abs_Diff_Probs 0.000314
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000314
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.017716
+
+Saving final weights in final_weights_DNA.dat...
+Optimal values
+Obtained in epoch 500
+Train	LogLKH_Data -8.066521  SumProb_Data 1.000
+logZ    458.050715 (Estimated)
+Train   KL 78.240387  LogLKH -86.306909  SumProb 0.000  Accuracy -1.000  Entropy 0.000
+Max_Prob_Data 0.000314
+Min_Prob_Data 0.000314
+Max_Prob_Model 0.000000
+Min_Prob_Model 0.000000
+Mean_Diff_Probs 0.000314
+Mean_Abs_Diff_Probs 0.000314
+StdDev_Model_Probs NOT_COMPUTED
+Max_Diff_Probs 0.000314
+L1_Norm_Diff_Probs 1.000000
+L2_Norm_Diff_Probs 0.017716
+
+Saving optimal weights in optimal_weights_DNA.dat...
+Total elapsed time: 446.568233s
